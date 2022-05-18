@@ -1,11 +1,11 @@
 --- 
-title: "A Minimal Book Example"
-author: "John Doe"
+title: "ChampManFPL"
+author: "Dan Wakeling"
 date: "2022-05-18"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://dibbles21.github.io/champmanfpl_book
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
