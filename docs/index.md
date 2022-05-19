@@ -1,7 +1,7 @@
 --- 
 title: "ChampManFPL"
 author: "Dan Wakeling"
-date: "2022-05-18"
+date: "2022-05-19"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -20,6 +20,8 @@ csl: chicago-fullnote-bibliography.csl
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
 
 ## Usage 
+
+Relive the heartaches, dramas, never-before-seen stories. 
 
 Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
 
